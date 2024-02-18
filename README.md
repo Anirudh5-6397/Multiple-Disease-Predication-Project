@@ -1,6 +1,6 @@
 # Multiple-Disease-Predication-Project
-This project is a Multiple Disease Prediction System implemented using Python and Machine Learning techniques. It aims to predict the likelihood of various diseases based on input symptoms provided by the user.
-Symptom Input: Users can input their symptoms into the system.
+This project is a Multiple Disease Prediction System implemented using Python and Machine Learning techniques. It aims to predict the likelihood of various diseases based on inputs provided by the user.
+Symptom Input: Users can input their symptoms and health condition into the system.
 Disease Prediction: The system predicts the likelihood of various diseases based on the input symptoms.
 Machine Learning Models: The predictions are made using machine learning models trained on medical datasets.
 User-Friendly Interface: Provides a user-friendly interface for inputting symptoms and viewing predictions.
